@@ -37,14 +37,25 @@ This repository contains a simple machine learning project that uses a **Random 
 ## Code Flowchart
 graph TD
 A[Start] --> B(Load Libraries);
+
 B --> C(Create Synthetic DataFrame);
+
 C --> D{Encode 'gender' column with LabelEncoder};
+
 D --> E(Define Features X and Target Y);
+
 E --> F{Split Data into Training and Test Sets};
+
 F --> G(Initialize RandomForestClassifier Model);
+
 G --> H(Fit Model to Training Data);
+
 H --> I(Evaluate Model Accuracy on Test Data);
+
 I --> J{Define get_pred Function};
+
 J --> K{Call get_pred with New Data};
+
 K --> L(Get Prediction Output);
+
 L --> M[End];
