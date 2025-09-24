@@ -14,15 +14,16 @@ This repository contains a simple machine learning project that uses a **Random 
 
 ## How to Run the Notebook
 
+## How to Run the Notebook
+
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/YourUsername/Gender-Prediction-Random-Forest.git](https://github.com/YourUsername/Gender-Prediction-Random-Forest.git)
+    git clone [https://github.com/gyanbdrmagar/gender_prediction_using_bmi_walking_distance.git](https://github.com/gyanbdrmagar/gender_prediction_using_bmi_walking_distance.git)
     ```
-    (Replace `YourUsername` with your actual GitHub username.)
 
 2.  **Navigate to the project directory**:
     ```bash
-    cd Gender-Prediction-Random-Forest
+    cd gender_prediction_using_bmi_walking_distance
     ```
 
 3.  **Install the required libraries**:
