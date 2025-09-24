@@ -14,8 +14,6 @@ This repository contains a simple machine learning project that uses a **Random 
 
 ## How to Run the Notebook
 
-## How to Run the Notebook
-
 1.  **Clone the repository**:
     ```bash
     git clone [https://github.com/gyanbdrmagar/gender_prediction_using_bmi_walking_distance.git](https://github.com/gyanbdrmagar/gender_prediction_using_bmi_walking_distance.git)
